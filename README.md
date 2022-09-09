@@ -10,6 +10,17 @@ Folder `server` contains Node.js/express server files, `client` contains client 
 
 ## How to run
 Run `npm run server` to start server.
+The server exposes 6 API endpoints.
+
+|HTTP|URL|
+|----|---|
+|POST| `/user/register`|
+|POST| `/user/login`|
+|GET | `/user/all`|
+|POST| `/key/store`|
+|POST| `/key/verify`|
+|GET | `/key/all`|
+
 
 Run `npm run client` to start client. It will prompt options, choose and proceed.
 
