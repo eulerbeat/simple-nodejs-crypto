@@ -1,7 +1,5 @@
 const axios = require('axios')
 
-const prompt = require('prompt-sync')({sigint: true});
-
 const config = require('./config')
 
 const {username, password, server, publicKey, createSignature} = config;
