@@ -36,3 +36,7 @@ which one? [1...4 / 0]:
 
 ## Test
 Run `npm test` or `npm run test` to run tests. There are a few unit tests for main logic.
+
+## Remarks
+
+Thanks! Feel free to leave comments or create issues.
