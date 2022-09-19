@@ -1,5 +1,3 @@
-# mrogolino-2022
-
 ## Dependencies
 Project used node v16.13.2.
 
